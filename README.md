@@ -21,7 +21,7 @@ uv sync
 ```
 
 
-The paste this into your mcp.json
+Then paste this into your mcp.json
 
 ```json
 {
