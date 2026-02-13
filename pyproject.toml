@@ -1,0 +1,10 @@
+[project]
+name = "supertonic-tts-mcp"
+version = "0.1.0"
+description = "MCP server for local TTS for LLMSs"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "mcp[cli]>=1.26.0",
+    "supertonic>=1.1.2",
+]
