@@ -8,18 +8,17 @@ Simply enable the text-to-speech mcp tool in your chat interface (I use LM Studi
 
 ## Installation
 
-Clone this repo 
+Clone this repo
 
-```
+```bash
 git clone https://github.com/theminji/tts-mcp.git
 ```
 
 Install with
 
-```
+```bash
 uv sync
 ```
-
 
 Then paste this into your mcp.json
 
